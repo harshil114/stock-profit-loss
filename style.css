@@ -1,0 +1,25 @@
+body{
+   text-align: center;
+   background-color:tan;
+   color:white;  
+}
+label{
+    display:block;
+    padding-bottom:1rem;
+    background-color: brown;
+}
+input{
+    background-color:indianred; 
+}
+button{
+    background-color: black;
+    color: brown;
+}
+::placeholder{
+    color:black;
+    
+}
+header{
+    color:green;
+    padding:1 rem;
+}
